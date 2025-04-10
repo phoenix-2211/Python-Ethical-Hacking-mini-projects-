@@ -47,9 +47,9 @@ To get started with these mini-projects, follow these simple steps:
    python script_name.py
 
 
-##Disclaimer ⚠️
+## Disclaimer ⚠️
 This repository is for educational purposes only. These tools should be used responsibly in a controlled environment where you have permission to perform penetration testing. Always practice ethical hacking and respect privacy and security.
 
 
-##Contributing 🤝
+## Contributing 🤝
 If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Make sure your contributions align with ethical hacking practices.
