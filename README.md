@@ -4,7 +4,7 @@ Project Title: Python Ethical Hacking Mini Projects
 
 Description: This repository contains a collection of mini-projects that demonstrate fundamental concepts of ethical hacking using Python. Each project is designed to give hands-on experience with real-world hacking and cybersecurity tasks, such as network scanning, vulnerability detection, and packet sniffing.
 
-Technologies Used:
+#Technologies Used:
 
 Python 3.x
 
